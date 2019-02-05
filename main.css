@@ -14,16 +14,20 @@ body{
     height: 300px;
     color: black;    
 }
-#c1section{
-    height: 100px;
-    color: green;
-    color: blue;
-    color: red;
-}
 
 /*CLASSES in css begin with a dot*/
-.classname{
-    .class1{
-        
-    }
+.classWidth{
+    width: 100px;
+}
+.classHeight{
+    height: 100px;
+}
+.classGreen{
+    background-color: green;
+}
+.classBlue{
+    background-color: blue;
+}
+.classRed{
+    background-color: red;
 }
