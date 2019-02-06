@@ -19,7 +19,7 @@ This is a plain website, think about the 5 paragraph essay: A header, a footer, 
 This website is a "tiled" website.  The goal is to use the floats and percents properly.
 <pre>
 --|body
-  |----header width:100% height:100px background-color:gray
+  |----header width:100% height:100px background-color:grey
 
   |----section
       |----div height: 200px width:50% background-color: red
