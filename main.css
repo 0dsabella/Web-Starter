@@ -20,12 +20,10 @@ body{
     height: 100px;
     background-color: grey;
 }
-#c2section1{
-    div height: 200px;
-    width: 50%;
-}
+
 /*CLASSES in css begin with a dot*/
 .classWidth{
+    float:left;
     width: 500px;
 }
 .classHeight{
@@ -39,4 +37,43 @@ body{
 }
 .classRed{
     background-color: red;
+}
+.c2height{
+    height: 200px;
+}
+.c2width25{
+    float:left;
+    width: 25%;
+}
+.c2width33{
+    float:left;
+    width: 33.33%;
+}
+.c2width50{
+
+    float:left;
+    width: 50%;
+}
+.c2width66{
+    float:left;
+    width: 66.66%;
+}
+.c2width75{
+    float:left;
+    width: 75%;
+}
+.c2red{
+    background-color: red;
+}
+.c2blue{
+    background-color: blue;
+}
+.c2black{
+    background-color: black
+}
+.c2height100{
+    height: 100px
+}
+.c2width100{
+    width: 100%
 }
