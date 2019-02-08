@@ -20,6 +20,13 @@ body{
     height: 100px;
     background-color: grey;
 }
+#c3article{
+    width: 400px;
+    padding: 8px;
+    border: 8px solid black;
+    border-radius: 4px;
+
+}
 
 /*CLASSES in css begin with a dot*/
 .classWidth{
@@ -76,4 +83,10 @@ body{
 }
 .c2width100{
     width: 100%
+}
+.c3margin{
+    margin: 0;
+}
+.c3imgWidth{
+    width: 400px;
 }
